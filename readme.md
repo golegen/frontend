@@ -63,6 +63,12 @@ Keep multiple browsers & devices in sync when building websites.
 
 # Using
 
+Change directory to source.
+
+```
+cd src
+```
+
 Download necessary NPM packages.
 
 ```
