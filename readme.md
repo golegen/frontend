@@ -46,7 +46,7 @@ Package manager for Node.
 
 Jade is a terse language for writing HTML templates.
 
-[Website](https://jade-lang.com) [Github](https://github.com/pugjs/jade)
+[Website](http://jade-lang.com) [Github](https://github.com/pugjs/jade)
 
 ## Browser Sync
 
