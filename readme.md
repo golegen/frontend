@@ -1,5 +1,5 @@
-Labkod Frontend Development Environment
-=======================================
+Labkod Frontend Development Env
+===============================
 
 ![Labkod Frontend Development Environment](https://raw.githubusercontent.com/labkod/frontend/master/screenshot.png)
 
