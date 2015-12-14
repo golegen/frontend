@@ -1,0 +1,23 @@
+{
+  "name": "labkod-frontend",
+  "authors": [
+    "Eray AYDIN <eray@labkod.com>"
+  ],
+  "description": "Labkod Frontend Development Environment",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
